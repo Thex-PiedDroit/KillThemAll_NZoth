@@ -1,0 +1,10 @@
+## Interface: 100002
+## Title: |cff00ccffKillThemAll_NZoth|r
+## Version: 1.0.3
+## Notes: Adds N'Zoth to KillThemAll
+## Author: TwoSouls
+## DefaultState: enabled
+##Dependencies: KillThemAll
+
+NZoth.lua
+Core.lua
